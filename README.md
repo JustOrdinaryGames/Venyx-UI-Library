@@ -10,6 +10,9 @@
 - Colorpicker with rgb options
 - Message/Notification system
 
+## Extras
+- Keybinds no longer trigger whilst typing
+- Fancier UI dragging
 
 ## Notes
 - Mouse events are not bindable
